@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my page! 
+
+This is my website where you can learn about my projects. 
+
+### Contact Me
+
+You may contact me through my [email](julie.tran246@gmail.com). 
 
 You can use the [editor on GitHub](https://github.com/juliethitran/testing123/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
