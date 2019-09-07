@@ -8,7 +8,7 @@ View my [LinkedIn Profile](https://www.linkedin.com/in/juliethitran/)!
 
 ### Contact Me
 
-You may contact me through my email at juliethitran@yahoo.com.
+You may contact me through my email at [juliethitran@yahoo.com](juliethitran@yahoo.com).
 
 You can use the [editor on GitHub](https://github.com/juliethitran/testing123/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
