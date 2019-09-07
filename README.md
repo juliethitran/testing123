@@ -1,4 +1,4 @@
-## Welcome to my page! 
+## Welcome to my page!
 
 This is my website where you can learn about myself. There will be pages of my projects too!
 
