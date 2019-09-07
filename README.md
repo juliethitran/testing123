@@ -10,6 +10,9 @@ View my [LinkedIn Profile](https://www.linkedin.com/in/juliethitran/)!
 
 You may contact me through my email at [juliethitran@yahoo.com](juliethitran@yahoo.com) .
 
+<a href="https://juliethitran.github.io/page1.html/">Page 2</a>
+<a href="page1.html">Page 2</a>
+
 You can use the [editor on GitHub](https://github.com/juliethitran/testing123/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
